@@ -1,4 +1,4 @@
-# TroykaSwimmingBackend
+# Backend
 
 Plataforma para registro y control de natación.
 
